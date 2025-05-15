@@ -9,10 +9,11 @@ const Footer = () => {
         <div className="w-4/5">
           <Image className="w-28 md:w-32" src={assets.logo} alt="logo" />
           <p className="mt-6 text-sm">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
+            Quickcart is a user-friendly eCommerce application designed to offer a seamless 
+            online shopping experience. It enables users to browse a wide range of products, 
+            add items to their cart, and make secure purchases with just a few clicks. 
+            With real-time inventory updates, quick checkout, and personalized recommendations,
+             Quickcart combines convenience and speed to meet modern shopping needs—anytime, anywhere.
           </p>
         </div>
 
@@ -40,8 +41,8 @@ const Footer = () => {
           <div>
             <h2 className="font-medium text-gray-900 mb-5">Get in touch</h2>
             <div className="text-sm space-y-2">
-              <p>+1-234-567-890</p>
-              <p>contact@greatstack.dev</p>
+              <p>+91 6362 840 897</p>
+              <p>makshatha129@gmail.com</p>
             </div>
           </div>
         </div>
